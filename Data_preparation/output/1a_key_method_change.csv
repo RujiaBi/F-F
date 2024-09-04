@@ -1,0 +1,134 @@
+"Var1","Freq"
+"Adapt-type model (in ADMB)->Adapt-type model (in ADMB)",15
+"Age analytical assessment (SAM)->Age analytical assessment (SAM)",28
+"Age- and length-based analytical assessment (Stock Synthesis 3)->Age- and length-based analytical assessment (Stock Synthesis 3)",10
+"Age-based analytic assessment (TSA)->Age-based analytic assessment (TSA)",15
+"Age-based analytical (FLICA)->Age-based analytical (FLICA)",3
+"Age-based analytical (FLICA)->Age-based analytical assessment (SAM)",4
+"Age-based analytical (Linked Separable Adapt VPA)->Age-based analytical (Linked Separable Adapt VPA)",6
+"Age-based analytical (Linked Separable Adapt VPA)->Length- and age-based analytical assessment (Stock Synthesis 3)",4
+"Age-based analytical (SAM)->Age-based analytical (SAM)",15
+"Age-based analytical (seasonal XSA, SXSA)->Age-based analytical (seasonal XSA, SXSA)",1
+"Age-based analytical (seasonal XSA, SXSA)->Age-based analytical assessment (quarterly SAM model) ",2
+"Age-based analytical (TASACS)->Age-based analytical (TASACS)",3
+"Age-based analytical (TASACS)->Statistical assessment model (XSAM)",6
+"Age-based analytical assessment (ASAP)->Age-based analytical assessment (ASAP)",6
+"Age-based analytical assessment (FLICA)->Age-based analytical assessment (ASAP)",12
+"Age-based analytical assessment (FLICA)->Age-based analytical assessment (FLICA)",3
+"Age-based analytical assessment (FLICA)->Age-based analytical assessment (SAM)",3
+"Age-based analytical assessment (SAM)->Age-based analytical assessment (ASAP)",4
+"Age-based analytical assessment (SAM)->Age-based analytical assessment (SAM)",29
+"Age-based analytical assessment (SAM)->Analytical assessment (ASAP) ",4
+"Age-based analytical assessment (SS3) ->Age-based analytical assessment (SS3) ",6
+"Age-based analytical assessment (Stochastic Multispecies Model)->Age-based analytical assessment (Stochastic Multispecies Model)",15
+"Age-based analytical assessment (TSA) ->Age-based analytical assessment (TSA) ",15
+"Age-based analytical assessment (XSA) ->Age-based analytical assessment (XSA) ",15
+"Age-based analytical assessment (XSA)->Age-based analytical assessment (SAM)",16
+"Age-based analytical assessment (XSA)->Age-based analytical assessment (XSA)",125
+"Age-based analytical assessment (XSA)->Age-structured stock assessment (based on Aarts and Poos 2009)",8
+"Age-based analytical assessment (XSA)->Statistical catch-at-age (SAM) ",10
+"Age-based analytical assessment (XSA)->Statistical catch-at-age model with flexible selectivity functions",2
+"Age-based analytical assessment (XSA)->Statistical catch-at-age model with flexible selectivity functions ",6
+"Age-based analytical assessment XSA->Age-based analytical assessment (SAM)",9
+"Age-based analytical assessment XSA->Age-based analytical assessment XSA",3
+"Age-based analytical assessment->Age-based analytical assessment",6
+"Age-based analytical model (SAM)->Age-based analytical model (SAM)",21
+"Age-based analytical stochastic assessment (SAM) ->Age-based analytical stochastic assessment (SAM)",2
+"Age-based analytical stochastic assessment (SAM) ->Age-based analytical stochastic assessment (SAM) ",10
+"Age-based analytical stochastic assessment (SAM)->Age-based analytical stochastic assessment (SAM)",1
+"Age-based analytical stochastic assessment (SAM)->Age-based analytical stochastic assessment (SAM) ",8
+"Age-based assessment (XSA)->Age-based assessment (XSA)",36
+"Age-based assessment (XSA)->Unknown",2
+"Age-length and sex-structured model->Age-length and sex-structured model",1
+"Age-structured model (ASAP)->Age-structured model (ASAP)",1
+"Age-structured stock assessment (based on Aarts and Poos 2009)->Age-structured stock assessment (based on Aarts and Poos 2009)",1
+"Analytical age-based assessment (TSA)->Analytical age-based assessment (TSA)",15
+"Analytical age-based assessment (XSA)->Analytical age-based assessment (XSA)",15
+"Analytical assessment (AMISH model)->Analytical assessment (AMISH model)",10
+"Analytical assessment (Gadget model)->Analytical assessment (Gadget model)",10
+"Analytical length-based assessment (Gadget model) ->Analytical length-based assessment (Gadget model)",6
+"Analytical length-based assessment (Gadget model) ->Analytical length-based assessment (Gadget model) ",13
+"Analytical length-based assessment (Gadget model)->Analytical length-based assessment (Gadget model)",1
+"ASAP (Age-Structured Assessment Programme; NOAA toolbox)->ASAP (Age-Structured Assessment Programme; NOAA toolbox)",15
+"Biomass dynaic model (Surplus production model)->Stock Synthesis v3.0 model",1
+"Biomass dynamics model (Age-structured surplus production model)->Biomass dynamics model (Age-structured surplus production model)",4
+"Biomass dynamics model (Age-structured surplus production model)->Statistical catch at age model",2
+"Biomass dynamics model (Delay difference model)->Biomass dynamics model (Delay difference model)",4
+"Biomass dynamics model (Delay difference model)->Biomass dynamics model (The KLAMZ assessment model is based on the Deriso-Schnute delay-difference equation)",1
+"Biomass dynamics model (Delay difference model)->Stock Synthesis v3.0 model",1
+"Biomass dynamics model (Surplus production model)->Biomass dynamics model (Surplus production model)",2
+"Biomass dynamics model (Surplus production model)->Random effects model",1
+"Biomass dynamics model (Surplus production model)->Statistical catch at age model",1
+"Biomass dynamics model->Integrated Analysis",2
+"Biomass dynamics model->Two-stage Bayesian biomass dynamic model (CBBM)",3
+"Biomass dynamics model->Unknown",2
+"Custom length-based Bayesian Model->Custom length-based Bayesian Model",2
+"Integrated Analysis->Integrated Analysis",15
+"Length based survey, swept area->Area-swept survey biomass",1
+"Length-based model (SS3) ->Length-based model (SS3) ",15
+"Lengthâ€“age analytical assessment (GADGET)->Lengthâ€“age analytical assessment (GADGET)",21
+"Multi-stock length-based model->Multi-stock length-based model",7
+"Multi-Year Catch Curves (MYCC)->Multi-Year Catch Curves (MYCC)",3
+"Population dynamics (Extended Depletion-Based Stock Reduction Analysis)->Population dynamics (Extended Depletion-Based Stock Reduction Analysis)",1
+"SAM ->SAM",6
+"SAM ->SAM ",3
+"SAM with catch-at-age data and age-disaggregated indices ->SAM with catch-at-age data and age-disaggregated indices ",2
+"SAM->SAM",1
+"Seasonal age-based analytical (SMS-effort)->Seasonal age-based analytical (SMS-effort)",64
+"Size-structured population dynamics model->Size-structured population dynamics model",5
+"Spreadsheet assessment model used for Capelin->Model based on acoustic survey and prediction six months ahead to calculate spawning biomass",1
+"State-space age-structured production model->State-space age-structured production model",2
+"StateÐspace age-structured assessment model (SAM) ->StateÐspace age-structured assessment model (SAM) ",28
+"Statistical assessment model (XSAM)->Statistical assessment model (XSAM)",1
+"Statistical catch at age ->Statistical catch at age ",3
+"Statistical catch at age model->Age-based analytical assessment (SAM)",2
+"Statistical catch at age model->Age-length-structured (Gadget model)",1
+"Statistical catch at age model->Statistical catch at age model",147
+"Statistical catch at age model->Statistical catch at age model with changes in growth and age error matrix",1
+"Statistical catch at age model->Stock Synthesis v3.0 model",5
+"Statistical catch at length model->Statistical catch at age model",2
+"Statistical catch at length model->Statistical catch at length model",1
+"Statistical catch-at-age (SAM) ->Statistical catch-at-age (SAM) ",1
+"Statistical catch-at-age (SCAA)->Statistical catch-at-age (SCAA)",1
+"Statistical catch-at-age model with flexible selectivity functions ->Statistical catch-at-age model with flexible selectivity functions",1
+"Statistical catch-at-age model with flexible selectivity functions ->Statistical catch-at-age model with flexible selectivity functions ",3
+"Statistical catch-at-age model with flexible selectivity functions->Statistical catch-at-age model with flexible selectivity functions ",2
+"Stock Synthesis v2.0 model->Stock Synthesis v3.0 model",15
+"Stock Synthesis v3.0 model->Stock Synthesis v3.0 model",39
+"Survey index->Statistical catch at age model",2
+"Survey index->Survey index",5
+"Two-stage Bayesian biomass dynamic model (CBBM)->Two-stage Bayesian biomass dynamic model (CBBM)",3
+"Unknown->Age-based assessment (XSA)",4
+"Unknown->Integrated Analysis",1
+"Unknown->Statistical catch at age model",1
+"Unknown->Survey index",1
+"Unknown->Unknown",2
+"VPA (XSA)->VPA (XSA)",15
+"VPA->Age analytical assessment (SAM)",1
+"VPA->Age-based analytical (FLICA)",1
+"VPA->Age-based analytical (seasonal XSA, SXSA)",2
+"VPA->Age-based analytical assessment",4
+"VPA->Age-based analytical assessment (quarterly SAM model) ",1
+"VPA->Age-based analytical assessment (SAM)",8
+"VPA->Age-based analytical assessment (XSA)",6
+"VPA->Age-length-structured (Gadget model)",1
+"VPA->Age-structured stock assessment (based on Aarts and Poos 2009)",2
+"VPA->Analytical assessment (ASAP) ",1
+"VPA->Integrated Analysis",1
+"VPA->SAM",2
+"VPA->SAM ",3
+"VPA->Statistical catch at age model",6
+"VPA->Statistical catch-at-age model with flexible selectivity functions",1
+"VPA->Statistical catch-at-age model with flexible selectivity functions ",3
+"VPA->Unknown",1
+"VPA->VPA",165
+"XSA using age-disaggregated indices->SAM with catch-at-age data and age-disaggregated indices ",2
+"XSA using age-disaggregated indices->XSA using landings-at- age data and age-disaggregated indices.",3
+"XSA using age-disaggregated indices->XSA using landings-at-age data and age-disaggregated indices",1
+"XSA using landings-at- age data and age-disaggregated indices.->SAM with catch-at-age data and age-disaggregated indices ",6
+"XSA using landings-at- age data and age-disaggregated indices.->XSA using landings-at- age data and age-disaggregated indices.",3
+"XSA using landings-at- age data and age-disaggregated indices.->XSA using landings-at-age data and age-disaggregated indices",1
+"XSA using landings-at-age data and age-disaggregated indices->SAM with catch-at-age data and age-disaggregated indices ",2
+"XSA using landings-at-age data and age-disaggregated indices->XSA using landings-at- age data and age-disaggregated indices.",2
+"XSA with catch-at-age data and age-disaggregated indices ->SAM with catch-at-age data and age-disaggregated indices ",10
+"XSA with catch-at-age data and age-disaggregated indices ->XSA with catch-at-age data and age-disaggregated indices ",10

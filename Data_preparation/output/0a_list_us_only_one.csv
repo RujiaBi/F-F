@@ -1,0 +1,326 @@
+stockid,stocklong,region,assessment years
+CSALMAKPSESCD,Chum salmon AK Pen Southeastern and South-central Districts,US Alaska (Pacific Salmon),1962-2005
+CSALMAKPSWUD,Chum salmon AK Pen Southwestern and Unimak Districts,US Alaska (Pacific Salmon),1962-2005
+CSALMANDREAR,Chum salmon Andreafsky River,US Alaska (Pacific Salmon),1972-1998
+CSALMANVIKR,Chum salmon Anvik River,US Alaska (Pacific Salmon),1972-1996
+CSALMBEARR,Chum salmon Bear River,US Alaska (Pacific Salmon),1962-1998
+CSALMBECHSNWD,"Chum salmon Bechevin, Swanson (Northwestern District)",US Alaska (Pacific Salmon),1962-1998
+CSALMBLKAMR,Chum salmon Big and Little Kamishak Rivers,US Alaska (Pacific Salmon),1973-1998
+CSALMBRUINR,Chum salmon Bruin River,US Alaska (Pacific Salmon),1971-1998
+CSALMCARIBOUF,Chum salmon CaribouFlats,US Alaska (Pacific Salmon),1962-1998
+CSALMCHIDWD,Chum salmon Chignik Western District,US Alaska (Pacific Salmon),1962-1996
+CSALMCHIGCD,Chum salmon Chignik Central District,US Alaska (Pacific Salmon),1962-1996
+CSALMCHIGED,Chum salmon Chignik Eastern District,US Alaska (Pacific Salmon),1962-1996
+CSALMCINDERR,Chum salmon Cinder River,US Alaska (Pacific Salmon),1962-1998
+CSALMCWCIR,Chum salmon Cottonwood Creek and Iniskin River,US Alaska (Pacific Salmon),1968-1998
+CSALMDFL,Chum salmon Dogfish Lagoon,US Alaska (Pacific Salmon),1964-1998
+CSALMEALSEKR,Chum salmon East Alsek River,US Alaska (Pacific Salmon),1960-1991
+CSALMFISHC,Chum salmon Fish Creek,US Alaska (Pacific Salmon),1971-2002
+CSALMGOLOVIN,Chum salmon Golovin,US Alaska (Pacific Salmon),1962-2005
+CSALMGOODNEWSR,Chum salmon Goodnews River,US Alaska (Pacific Salmon),1969-2002
+CSALMIZEMBEKMNWD,"Chum salmon Izembek, Moffet (Northwestern District)",US Alaska (Pacific Salmon),1962-1998
+CSALMKADASHANC,Chum salmon Kadashan Creek,US Alaska (Pacific Salmon),1969-1988
+CSALMKANEKTOKR,Chum salmon Kanektok River,US Alaska (Pacific Salmon),1961-2002
+CSALMKOTZEBUES,Chum salmon Kotzebue Sound,US Alaska (Pacific Salmon),1962-2004
+CSALMKTRNS,Chum salmon Kwiniuk and Tubutulik Rivers (Norton Sound),US Alaska (Pacific Salmon),1962-2004
+CSALMKUSKOKWIM,Chum salmon Kuskokwim,US Alaska (Pacific Salmon),1961-2005
+CSALMMNRSD,Chum salmon McNeil River (and Sub-District),US Alaska (Pacific Salmon),1973-1998
+CSALMNELSONL,Chum salmon NelsonLagoon,US Alaska (Pacific Salmon),1962-1998
+CSALMNORTONB,Chum salmon Norton Bay,US Alaska (Pacific Salmon),1962-2003
+CSALMNORTONSD1,Chum salmon Norton Sound District 1,US Alaska (Pacific Salmon),1964-2004
+CSALMNUSHAGAKD,Chum salmon Nushagak District,US Alaska (Pacific Salmon),1968-2004
+CSALMPDIC,Chum salmon Port Dick and Island Creek,US Alaska (Pacific Salmon),1964-1998
+CSALMPERRYVILLED,Chum salmon Perryville District,US Alaska (Pacific Salmon),1962-1996
+CSALMPGRAHAM,Chum salmon Port Graham,US Alaska (Pacific Salmon),1964-1998
+CSALMPHEIDEN,Chum salmon PortHeiden,US Alaska (Pacific Salmon),1962-1998
+CSALMPMOLLERBT,Chum salmon PMollerBt,US Alaska (Pacific Salmon),1962-1998
+CSALMROCKYR,Chum salmon Rocky River,US Alaska (Pacific Salmon),1964-1998
+CSALMSHAKTOOLIK,Chum salmon Shaktoolik,US Alaska (Pacific Salmon),1961-2004
+CSALMTHREEH,Chum salmon ThreeHills,US Alaska (Pacific Salmon),1962-1998
+CSALMTOGD,Chum salmon Togiak District,US Alaska (Pacific Salmon),1975-2004
+CSALMUCOOKI,Chum salmon Upper Cook Inlet,US Alaska (Pacific Salmon),1956-2004
+CSALMUNALAKLEET,Chum salmon Unalakleet,US Alaska (Pacific Salmon),1961-2004
+CSALMURSUSCL,Chum salmon Ursus Cove and Lagoon,US Alaska (Pacific Salmon),1972-1998
+CSALMYUKONRFR,Chum salmon Yukon River Fall Run,US Alaska (Pacific Salmon),1961-2003
+CSALMYUKONRSR,Chum salmon Yukon River Summer Run,US Alaska (Pacific Salmon),1961-2003
+HERRPWS,Pacific herring Prince William Sound,US Alaska,1980-2006
+HERRSITKA,Pacific herring Sitka,US Alaska,1978-2007
+HERRTOG,Pacific herring Togiak District,US Alaska,1990-2010
+PSALMAFFLECKCI,Pink salmon Affleck Cl (District105),US Alaska (Pacific Salmon),1960-1998
+PSALMAFOGNAKD,Pink salmon Afognak District,US Alaska (Pacific Salmon),1978-1998
+PSALMAIALIKL,Pink salmon Aialik Lagoon (Eastern D),US Alaska (Pacific Salmon),1962-1998
+PSALMAKPNWD,Pink salmon AK Pen Northwestern District,US Alaska (Pacific Salmon),1962-1998
+PSALMAKPSESCD,Pink salmon AK Pen Southeastern and South-central Districts,US Alaska (Pacific Salmon),1962-1998
+PSALMAKPSWUD,Pink salmon AK Pen Southwestern and Unimak Districts,US Alaska (Pacific Salmon),1962-1998
+PSALMALITAKD,Pink salmon Alitak District,US Alaska (Pacific Salmon),1978-1998
+PSALMAMAKC,Pink salmon Amakdedori Creek (Kamishak D),US Alaska (Pacific Salmon),1960-1997
+PSALMANAN,Pink salmon Anan (District107),US Alaska (Pacific Salmon),1960-1998
+PSALMAUKEC,Pink salmon Auke Creek (Northern Inside),US Alaska (Pacific Salmon),1971-1998
+PSALMBARABARA,Pink salmon Barabara (Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMBARANOFE,Pink salmon Baranof E (District109),US Alaska (Pacific Salmon),1960-1998
+PSALMBKAMISHAKR,Pink salmon Big Kamishak River  (Kamishak D),US Alaska (Pacific Salmon),1962-1996
+PSALMBRUINR,Pink salmon Bruin River,US Alaska (Pacific Salmon),1960-1998
+PSALMBURNETT,Pink salmon Burnett (District106),US Alaska (Pacific Salmon),1960-1998
+PSALMCHIGNIKBD,Pink salmon Chignik Bay District,US Alaska (Pacific Salmon),1962-1997
+PSALMCHIGNIKCD,Pink salmon Chignik Central District,US Alaska (Pacific Salmon),1962-1997
+PSALMCHIGNIKED,Pink salmon Chignik Eastern District,US Alaska (Pacific Salmon),1962-1997
+PSALMCHIGNIKWD,Pink salmon Chignik Western District,US Alaska (Pacific Salmon),1962-1997
+PSALMCHINAP,Pink salmon China Poot (Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMCOGHILLD,Pink salmon Coghill District,US Alaska (Pacific Salmon),1965-1998
+PSALMDOGFISH,Pink salmon Dogfish (Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMEBEHM,Pink salmon EBehm (District 101),US Alaska (Pacific Salmon),1960-1998
+PSALMEDALL,Pink salmon EDall (District103),US Alaska (Pacific Salmon),1960-1998
+PSALMELIZAH,Pink salmon Eliza Hbr (District109),US Alaska (Pacific Salmon),1960-1998
+PSALMESHAMYD,Pink salmon Eshamy District,US Alaska (Pacific Salmon),1965-1998
+PSALMESND,Pink salmon Eastside-Northend District,US Alaska (Pacific Salmon),1978-1998
+PSALMFARRAGUT,Pink salmon Farragut (District110),US Alaska (Pacific Salmon),1960-1998
+PSALMFRESHWB,Pink salmon Freshw By (District112),US Alaska (Pacific Salmon),1960-1998
+PSALMGOLOVIN,Pink salmon Golovin,US Alaska (Pacific Salmon),1962-2004
+PSALMHETTA,Pink salmon Hetta (District103),US Alaska (Pacific Salmon),1960-1998
+PSALMHOMES,Pink salmon Homeshor (District114),US Alaska (Pacific Salmon),1960-1998
+PSALMHOONAHS,Pink salmon Hoonah S (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMHOUGHTON,Pink salmon Houghton (District110),US Alaska (Pacific Salmon),1960-1998
+PSALMHUMPCY,Pink salmon Humpy Creek (Yakutat),US Alaska (Pacific Salmon),1962-1994
+PSALMHUMPYCCISD,Pink salmon Humpy Creek (Cook Inlet Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMIGUSHIK,Pink salmon Igushik River,US Alaska (Pacific Salmon),1962-1984
+PSALMJAMESLOD,Pink salmon James Lagoon (Outer D),US Alaska (Pacific Salmon),1980-1995
+PSALMKASAAN,Pink salmon Kasaan (District102),US Alaska (Pacific Salmon),1960-1998
+PSALMKELPB,Pink salmon Kelp By (District112),US Alaska (Pacific Salmon),1960-1998
+PSALMKLAWOCK,Pink salmon Klawock (District103),US Alaska (Pacific Salmon),1960-1998
+PSALMKODIAKMD,Pink salmon Kodiak Mainland District,US Alaska (Pacific Salmon),1980-1998
+PSALMKODIAKWD,Pink salmon Kodiak Westside District,US Alaska (Pacific Salmon),1978-1998
+PSALMKUSKOKWIM,Pink salmon Kuskokwim,US Alaska (Pacific Salmon),1960-2003
+PSALMLISIANSKI,Pink salmon Lisianski (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMLKAMR,Pink salmon Little Kamishak River (Kamishak D),US Alaska (Pacific Salmon),1962-1989
+PSALMLYNNCD112,Pink salmon Lynn Cnl (District112),US Alaska (Pacific Salmon),1960-1998
+PSALMLYNNCD115,Pink salmon Lynn Cnl (District115),US Alaska (Pacific Salmon),1960-1998
+PSALMMOIRA,Pink salmon Moira (District102),US Alaska (Pacific Salmon),1960-1998
+PSALMMONTD,Pink salmon Montague District,US Alaska (Pacific Salmon),1965-1998
+PSALMMPNBNS,Pink salmon Moses Point and Norton Bay (Norton Sound),US Alaska (Pacific Salmon),1961-2003
+PSALMNCHICHAGO,Pink salmon Nchichago (District114),US Alaska (Pacific Salmon),1960-1998
+PSALMNOME,Pink salmon Nome (Norton Sound),US Alaska (Pacific Salmon),1965-2004
+PSALMNUNAKWIKD,Pink salmon Northern/Unakwik District,US Alaska (Pacific Salmon),1965-1998
+PSALMNUSHAGAKR,Pink salmon Nushagak River,US Alaska (Pacific Salmon),1960-1998
+PSALMPCHATHAM,Pink salmon Port Chatham (Outer D),US Alaska (Pacific Salmon),1960-1998
+PSALMPDICK,Pink salmon Port Dick (Outer D),US Alaska (Pacific Salmon),1960-1998
+PSALMPERRYVILLED,Pink salmon Perryville District,US Alaska (Pacific Salmon),1962-1997
+PSALMPGRAHAMSD,Pink salmon Port Graham (Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMPORTAGEB,Pink salmon Portage B (District110),US Alaska (Pacific Salmon),1960-1998
+PSALMPORTLAND,Pink salmon Portland (District 101),US Alaska (Pacific Salmon),1960-1998
+PSALMPORTLOCK,Pink salmon Portlock (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMPWSED,Pink salmon PWS Eastern District,US Alaska (Pacific Salmon),1965-1998
+PSALMPWSNWD,Pink salmon PWS Northwestern District,US Alaska (Pacific Salmon),1965-1998
+PSALMPWSSED,Pink salmon PWS Southeastern District,US Alaska (Pacific Salmon),1965-1998
+PSALMPWSSWD,Pink salmon PWS Southwest District,US Alaska (Pacific Salmon),1965-1998
+PSALMPYBUSGA,Pink salmon Pybus/Ga (District110),US Alaska (Pacific Salmon),1960-1998
+PSALMRATZH,Pink salmon Ratz Hbr (District106),US Alaska (Pacific Salmon),1960-1998
+PSALMRESB,Pink salmon Resurrection Bay (Eastern D),US Alaska (Pacific Salmon),1960-1998
+PSALMROCKYROD,Pink salmon Rocky River (Outer D),US Alaska (Pacific Salmon),1960-1998
+PSALMSAGINWB,Pink salmon Saginw By (District109),US Alaska (Pacific Salmon),1960-1998
+PSALMSAKP,Pink salmon South AK Peninsula w/o Chignik,US Alaska (Pacific Salmon),1950-2004
+PSALMSALISBURY,Pink salmon Salisbury (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMSASHINCNI,Pink salmon Sashin Creek (Northern Inside),US Alaska (Pacific Salmon),1950-1997
+PSALMSBPCKD,Pink salmon Sunday and Browns Peak Creek (Kamishak D),US Alaska (Pacific Salmon),1960-1998
+PSALMSEAOTTER,Pink salmon SeaOtter (District103),US Alaska (Pacific Salmon),1960-1998
+PSALMSEBARAN,Pink salmon SE Baran (District109),US Alaska (Pacific Salmon),1960-1998
+PSALMSELDOVIAB,Pink salmon Seldovia Bay  (Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMSEYMOUR,Pink salmon Seymour (District111),US Alaska (Pacific Salmon),1960-1998
+PSALMSHAKTOOLIKNS,Pink salmon Shaktoolik (Norton Sound),US Alaska (Pacific Salmon),1961-2004
+PSALMSHIPLEY,Pink salmon Shipley (District105),US Alaska (Pacific Salmon),1960-1998
+PSALMSITKAS,Pink salmon Sitka Sd (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMSITUKR,Pink salmon Situk River,US Alaska (Pacific Salmon),1961-1992
+PSALMSLOCUM,Pink salmon Slocum (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMSNAKER,Pink salmon Snake River,US Alaska (Pacific Salmon),1962-1984
+PSALMSTEPHENS,Pink salmon Stephens (District111),US Alaska (Pacific Salmon),1960-1998
+PSALMSTIKINE,Pink salmon Stikine (District108),US Alaska (Pacific Salmon),1960-1998
+PSALMSWADMIR,Pink salmon SWAdmir (District112),US Alaska (Pacific Salmon),1960-1998
+PSALMTANAKEE,Pink salmon Tenakee (District112),US Alaska (Pacific Salmon),1960-1998
+PSALMTEBENKOF,Pink salmon Tebenkof (District109),US Alaska (Pacific Salmon),1960-1998
+PSALMTOTEMB,Pink salmon Totem By (District106),US Alaska (Pacific Salmon),1960-1998
+PSALMTUTKASD,Pink salmon Tutka (Southern D),US Alaska (Pacific Salmon),1960-1998
+PSALMUCOOKI,Pink salmon Upper Cook Inlet,US Alaska (Pacific Salmon),1956-2004
+PSALMUNALAKLEETNS,Pink salmon Unalakleet (Norton Sound),US Alaska (Pacific Salmon),1960-2004
+PSALMUNIONB,Pink salmon Union By (District107),US Alaska (Pacific Salmon),1960-1998
+PSALMWADMIRAL,Pink salmon WAdmiral (District112),US Alaska (Pacific Salmon),1960-1998
+PSALMWBEHM,Pink salmon WBehm (District 101),US Alaska (Pacific Salmon),1960-1998
+PSALMWCRAWFISH,Pink salmon Wcrawfish (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMWHALEB,Pink salmon Whale By (District113),US Alaska (Pacific Salmon),1960-1998
+PSALMWHALEP,Pink salmon Whale Pe (District106),US Alaska (Pacific Salmon),1960-1998
+PSALMWINDYC,Pink salmon Windy Creek (Outer D),US Alaska (Pacific Salmon),1960-1998
+PSALMWOODR,Pink salmon Wood River,US Alaska (Pacific Salmon),1962-1984
+SSALMAKALURAL,Sockeye salmon Akalura Lake,US Alaska (Pacific Salmon),1970-2003
+SSALMAWKER,Sockeye salmon Akwe River,US Alaska (Pacific Salmon),1973-2002
+SSALMBEARR,Sockeye salmon Bear River,US Alaska (Pacific Salmon),1980-2005
+SSALMBLACKL,Sockeye salmon Black Lake,US Alaska (Pacific Salmon),1918-1999
+SSALMBRANCH,Sockeye salmon Branch,US Alaska (Pacific Salmon),1956-2005
+SSALMBUSKINL,Sockeye salmon Buskin Lake,US Alaska (Pacific Salmon),1990-2003
+SSALMCHIGNIKL,Sockeye salmon Chignik Lake,US Alaska (Pacific Salmon),1918-1999
+SSALMCHILKATL,Sockeye salmon Chilkat Lake,US Alaska (Pacific Salmon),1976-2002
+SSALMCHILKOOTL,Sockeye salmon Chilkoot Lake,US Alaska (Pacific Salmon),1976-2002
+SSALMEALSEKDR,Sockeye salmon East-Alsek-Doame River,US Alaska (Pacific Salmon),1972-2002
+SSALMEGEGIK,Sockeye salmon Egegik,US Alaska (Pacific Salmon),1953-2005
+SSALMEUPPERS,Sockeye salmon Early Upper Station,US Alaska (Pacific Salmon),1969-1999
+SSALMIGUSHIK,Sockeye salmon Igushik River,US Alaska (Pacific Salmon),1953-2005
+SSALMILNIKR,Sockeye salmon Ilnik River,US Alaska (Pacific Salmon),1991-2005
+SSALMITALOR,Sockeye salmon Italo River,US Alaska (Pacific Salmon),1972-2002
+SSALMKARLUKL,Sockeye salmon Karluk Lake,US Alaska (Pacific Salmon),1976-2003
+SSALMKLUKSHUR,Sockeye salmon Klukshu River,US Alaska (Pacific Salmon),1976-2002
+SSALMKUSKOKWIM,Sockeye salmon Kuskokwim,US Alaska (Pacific Salmon),1981-2003
+SSALMKVICHAK,Sockeye salmon Kvichak,US Alaska (Pacific Salmon),1952-2005
+SSALMLOSTR,Sockeye salmon Lost River,US Alaska (Pacific Salmon),1972-2002
+SSALMLRIVER,Sockeye salmon Little River,US Alaska (Pacific Salmon),1975-2004
+SSALMLUPPERS,Sockeye salmon Late Upper Station,US Alaska (Pacific Salmon),1970-1999
+SSALMMALINAL,Sockeye salmon Malina Lake,US Alaska (Pacific Salmon),1969-2004
+SSALMMCDONALD,Sockeye salmon McDonald,US Alaska (Pacific Salmon),1982-2001
+SSALMNAKNEK,Sockeye salmon Naknek,US Alaska (Pacific Salmon),1953-2005
+SSALMNELSONR,Sockeye salmon Nelson River,US Alaska (Pacific Salmon),1981-2005
+SSALMNUSHAGAK,Sockeye salmon Nushagak,US Alaska (Pacific Salmon),1952-2005
+SSALMNUYAKUK,Sockeye salmon Nuyakuk,US Alaska (Pacific Salmon),1952-1988
+SSALMORZINSKIL,Sockeye salmon Orzinski Lake,US Alaska (Pacific Salmon),1990-2005
+SSALMPASAGSHAKR,Sockeye salmon Pasagshak River,US Alaska (Pacific Salmon),1968-2003
+SSALMPAULSBD,Sockeye salmon Pauls Bay Drainage,US Alaska (Pacific Salmon),1969-2004
+SSALMREDOUBTL,Sockeye salmon Redoubt Lake,US Alaska (Pacific Salmon),1979-2002
+SSALMSALTERYL,Sockeye salmon Saltery Lake,US Alaska (Pacific Salmon),1976-2003
+SSALMSANDYR,Sockeye salmon Sandy River,US Alaska (Pacific Salmon),1994-2005
+SSALMSITUKR,Sockeye salmon Situk River,US Alaska (Pacific Salmon),1976-2002
+SSALMSPEELL,Sockeye salmon Speel Lake,US Alaska (Pacific Salmon),1983-2002
+SSALMSTIKINE,Sockeye salmon Stikine (District108),US Alaska (Pacific Salmon),1982-2001
+SSALMTAHLTAN,Sockeye salmon Tahltan,US Alaska (Pacific Salmon),1979-2004
+SSALMTAKUR,Sockeye salmon Taku River,US Alaska (Pacific Salmon),1984-2002
+SSALMTOGIAK,Sockeye salmon Togiak,US Alaska (Pacific Salmon),1953-2005
+SSALMUCOOKI,Sockeye salmon Upper Cook Inlet,US Alaska (Pacific Salmon),1964-1998
+SSALMUGANIKL,Sockeye salmon Uganik Lake,US Alaska (Pacific Salmon),1974-2003
+SSALMUGASHIK,Sockeye salmon Ugashik,US Alaska (Pacific Salmon),1953-2005
+SSALMWOOD,Sockeye salmon Wood,US Alaska (Pacific Salmon),1953-2005
+ALSKABSAI,Alaska skate Bering Sea and Aleutian Islands,US Alaska,1950-2015
+ATKAGA,Atka mackerel Gulf of Alaska,US Alaska,1977-2014
+BKINGCRABPI,Blue king crab Pribilof Islands,US Alaska,1960-2008
+BKINGCRABSMI,Blue king crab Saint Matthews Island,US Alaska,1960-2008
+GHALBSAI,Greenland halibut Bering Sea and Aleutian Islands,US Alaska,1960-2015
+GPOCTOBSAI,Giant Pacific octopus Bering Sea and Aleutian Islands,US Alaska,1997-2014
+GPOCTOGA,Giant Pacific octopus Gulf of Alaska,US Alaska,1997-2014
+KMFLOUNBSAI,Kamchatka flounder Bering Sea and Aleutian Islands,US Alaska,1991-2015
+NRSOLEGA,Northern rock sole Gulf of Alaska,US Alaska,1977-2015
+PCODAI,Pacific cod Aleutian Islands,US Alaska,1991-2014
+PCODBS,Pacific cod Bering Sea,US Alaska,1977-2015
+REYEROCKBSAI,Rougheye rockfish Bering Sea and Aleutian Islands,US Alaska,1974-2015
+REYEROCKGA,Rougheye rockfish Gulf of Alaska,US Alaska,1974-2010
+RKCRABNS,Red king crab Norton Sound,US Alaska,1976-2008
+RKCRABPI,Red king crab Pribilof Islands,US Alaska,1981-2009
+RSOLEGA,Rock sole Gulf of Alaska,US Alaska,1977-2015
+SRAKEROCKGA,Shortraker rockfish Gulf of Alaska,US Alaska,1993-2014
+SSTHORNHGA,Shortspine thornyhead Gulf of Alaska,US Alaska,1980-2014
+WPOLLBOGO,Walleye pollock Bogoslof,US Alaska,1977-2014
+WPOLLEBS,Walleye pollock Eastern Bering Sea,US Alaska,1963-2015
+WVSCALLALASKA,Weathervane scallop Alaska,US Alaska,1994-2015
+YEYEROCKGA,Yelloweye rockfish Gulf of Alaska,US Alaska,1990-2014
+ATLCROAKMATLC,Atlantic croaker Mid-Atlantic Coast,US East Coast,1973-2002
+LOBSTERGB,American lobster Georges Bank,US East Coast,1981-2007
+LOBSTERGOM,American lobster Gulf of Maine,US East Coast,1981-2007
+LOBSTERSNE,American lobster Southern New England,US East Coast,1981-2007
+PANDALGOM,Northern shrimp Gulf of Maine,US East Coast,1960-2009
+BCRABCHESB,Blue crab Chesapeake Bay,US East Coast,1990-2010
+ATHAL5YZ,Atlantic halibut Gulf of Maine / Georges Bank,US East Coast,1800-2007
+AWOLF5YZ,Atlantic wolffish Gulf of Maine / Georges Bank,US East Coast,1968-2014
+BSKAT5YZSNE,Barndoor skate Gulf of Maine / Georges Bank-Southern New England,US East Coast,1963-2005
+BUTTERGOMCHATT,Atlantic butterfish Gulf of Maine / Cape Hatteras,US East Coast,1965-2012
+CODGB,Atlantic cod Georges Bank,US East Coast,1976-2011
+CSKATMATLC,Clearnose skate Mid-Atlantic Coast,US East Coast,1975-2005
+ILLEXNWATLC,Northern shortfin squid Northwestern Atlantic Coast,US East Coast,1967-2005
+LSKAT5YCHATT,Little skate Gulf of Maine / Cape Hatteras,US East Coast,1968-2006
+RDEEPCRABNWATL,Red deepsea crab Northwestern Atlantic,US East Coast,1982-2008
+RHAKEGOMNGB,Red hake Gulf of Maine / Northern Georges Bank,US East Coast,1980-2014
+RHAKESGBMATL,Red hake Southern Georges Bank / Mid-Atlantic,US East Coast,1980-2014
+RSKATMATLC,Rosette skate Mid-Atlantic Coast,US East Coast,1967-2005
+SCALL5ZMAB,Sea scallop Georges Bank and Mid-Atlantic Bight,US East Coast,1964-2013
+SSKAT5YZSNE,Smooth skate Gulf of Maine / Georges Bank-Southern New England,US East Coast,1963-2005
+STRIPEDBASSGOMCHATT,Striped bass Gulf of Maine / Cape Hatteras,US East Coast,1981-2012
+TILEMATLC,Tilefish Mid-Atlantic Coast,US East Coast,1915-2012
+TSKAT5YZSNE,Thorny skate Gulf of Maine / Georges Bank-Southern New England,US East Coast,1963-2005
+WEAKFISHATLC,Weakfish Atlantic Coast,US East Coast,1981-2008
+WSKAT5YCHATT,Winter skate Gulf of Maine / Cape Hatteras,US East Coast,1967-2005
+AUROCKPCOAST,Aurora rockfish Pacific Coast,US West Coast,1916-2013
+BGROCKPCOAST,Blackgill rockfish Pacific Coast,US West Coast,1950-2011
+BLACKROCKORECOAST,Black rockfish Oregon Coast,US West Coast,1892-2015
+BLACKROCKWASH,Black rockfish Washington,US West Coast,1940-2015
+BLUEROCKCAL,Blue rockfish California,US West Coast,1916-2007
+CABEZORECOAST,Cabezon Oregon Coast,US West Coast,1973-2009
+CHROCKCPCOAST,China rockfish Central Pacific Coast,US West Coast,1900-2015
+CHROCKSPCOAST,China rockfish Southern Pacific Coast,US West Coast,1900-2015
+LINGCODNPCOAST,Lingcod Northern Pacific Coast,US West Coast,1928-2009
+LINGCODSPCOAST,Lingcod Southern Pacific Coast,US West Coast,1928-2009
+LNOSESKAPCOAST,Longnose skate Pacific Coast,US West Coast,1915-2007
+LSTHORNHPCOAST,Longspine thornyhead Pacific Coast,US West Coast,1964-2012
+POPERCHPCOAST,Pacific ocean perch Pacific Coast,US West Coast,1940-2011
+REXSOLEPCOAST,Rex sole Pacific Coast,US West Coast,1896-2012
+SHCROCKPCOAST,Sharpchin rockfish Pacific Coast,US West Coast,1892-2012
+SNROCKPCOAST,Splitnose rockfish Pacific Coast,US West Coast,1905-2009
+SPSDOGPCOAST,Spotted spiny dogfish Pacific Coast,US West Coast,1916-2011
+BNKROCKCAL,Bank rockfish California,US West Coast,1979-1999
+CABEZNCAL,Cabezon Northern California,US West Coast,1930-2009
+CABEZSCAL,Cabezon Southern California,US West Coast,1930-2009
+GRNSTROCKPCOAST,Greenstriped rockfish Pacific Coast,US West Coast,1916-2009
+BHEADSHARATL,Bonnethead shark Atlantic,US Southeast and Gulf,1950-2011
+BLACKGROUPERGMSATL,Black grouper Gulf of Mexico and South Atlantic,US Southeast and Gulf,1986-2008
+BLTILESATLC,Blueline tilefish Southern Atlantic coast,US Southeast and Gulf,1974-2011
+BTIPSHARATL,Blacktip shark Atlantic,US Southeast and Gulf,1981-2004
+BTIPSHARGM,Blacktip shark Gulf of Mexico,US Southeast and Gulf,1981-2010
+COBGM,Cobia Gulf of Mexico,US Southeast and Gulf,1927-2011
+COBSATLC,Cobia Southern Atlantic coast,US Southeast and Gulf,1950-2011
+DSKSHARGMATL,Dusky shark Gulf of Mexico and Atlantic,US Southeast and Gulf,1960-2009
+FTOOTHSHARATL,Finetooth shark Atlantic,US Southeast and Gulf,1976-2005
+GAGGM,Gag Gulf of Mexico,US Southeast and Gulf,1963-2012
+GLGROUPSATLCGM,Goliath grouper Southern Atlantic coast and Gulf of Mexico,US Southeast and Gulf,1950-2009
+GRAMBERSATLC,Greater amberjack Southern Atlantic coast,US Southeast and Gulf,1946-2006
+KMACKGM,King mackerel Gulf of Mexico,US Southeast and Gulf,1929-2012
+KMACKSATLC,King mackerel Southern Atlantic coast,US Southeast and Gulf,1901-2012
+LISQUIDATLC,Longfin inshore squid Atlantic Coast,US Southeast and Gulf,1963-2009
+RGROUPSATL,Red grouper South Atlantic,US Southeast and Gulf,1976-2009
+RPORGYSATLC,Red porgy Southern Atlantic coast,US Southeast and Gulf,1972-2012
+SCHHEADATL,Scalloped hammerhead Atlantic,US East Coast,1981-2005
+SKSNAPCARIB,Silk snapper Caribbean,US Southeast and Gulf,1983-2009
+SMDOGATL,Smooth dogfish Atlantic,US East Coast,1981-2012
+SNOSESHARATL,Atlantic sharpnose shark Atlantic,US Southeast and Gulf,1950-2005
+SNOWGROUPSATLC,Snowy grouper Southern Atlantic coast,US Southeast and Gulf,1974-2013
+SPANMACKGM,Spanish mackerel Gulf of Mexico,US Southeast and Gulf,1886-2011
+SPANMACKSATLC,Spanish mackerel Southern Atlantic coast,US Southeast and Gulf,1950-2012
+TILEGM,Tilefish Gulf of Mexico,US Southeast and Gulf,1965-2009
+VSNAPSATLC,Vermilion snapper Southern Atlantic coast,US Southeast and Gulf,1945-2012
+YEGROUPGM,Yellowedge grouper Gulf of Mexico,US Southeast and Gulf,1975-2009
+YTSNAPSATLCGM,Yellowtail snapper Southern Atlantic coast and Gulf of Mexico,US Southeast and Gulf,1950-2011
+BLACKROCKCAL,Black rockfish California,US West Coast,1916-2015
+BRNROCKPCOAST,Brown rockfish Pacific Coast,US West Coast,1916-2012
+CHROCKNPCOAST,China rockfish Northern Pacific Coast,US West Coast,1900-2015
+CPRROCKPCOAST,Copper rockfish Pacific Coast,US West Coast,1916-2012
+DSOLEPCOAST,Dover sole Pacific Coast,US West Coast,1910-2011
+GOPHERSPCOAST,Gopher rockfish Southern Pacific Coast,US West Coast,1965-2005
+GRSPROCKNCAL,Greenspotted rockfish Northern Pacific Coast,US West Coast,1916-2010
+GRSPROCKSCAL,Greenspotted rockfish Southern Pacific Coast,US West Coast,1916-2010
+SBELLYROCKPCOAST,Shortbelly rockfish Pacific Coast,US West Coast,1950-2005
+STFLOUNNPCOAST,Starry flounder Northern Pacific Coast,US West Coast,1970-2005
+STFLOUNSPCOAST,Starry flounder Southern Pacific Coast,US West Coast,1970-2005
+CSALMCOLR,Chum salmon Columbia R,US West Coast (Pacific Salmon),1950-2000
+CSALMGRAYH,Chum salmon Grays Harbour,US West Coast (Pacific Salmon),1969-2000
+CSALMHOODC,Chum salmon Hood Canal,US West Coast (Pacific Salmon),1965-1998
+CSALMJDFS,Chum salmon Juan de Fuca Straits,US West Coast (Pacific Salmon),1965-1998
+CSALMNSR,Chum salmon Nooksack and Samish Rivers,US West Coast (Pacific Salmon),1965-1998
+CSALMSKAGR,Chum salmon Skagit River,US West Coast (Pacific Salmon),1965-1998
+CSALMSSOUNDFR,Chum salmon South Sound Fall Run,US West Coast (Pacific Salmon),1965-1998
+CSALMSSOUNDSR,Chum salmon South Sound Summer Run,US West Coast (Pacific Salmon),1965-1998
+CSALMSSOUNDWR,Chum salmon South Sound Winter Run,US West Coast (Pacific Salmon),1965-1998
+CSALMSSR,Chum salmon Stillaguamish and Snohomish Rivers,US West Coast (Pacific Salmon),1965-1998
+CSALMWILLB,Chum salmon Willapa Bay,US West Coast (Pacific Salmon),1968-2000
+PGEODWA,Pacific geoduck Washington,US West Coast,1980-2010
+PSALMDOSEWHC,Pink salmon Dosewallips (Hood Canal),US West Coast (Pacific Salmon),1959-1997
+PSALMDUCKA,Pink salmon Duckabush (Hood Canal),US West Coast (Pacific Salmon),1959-1997
+PSALMDUNGENHC,Pink salmon Dungeness (Juan de Fuca),US West Coast (Pacific Salmon),1959-1997
+PSALMHHAMMAHC,Pink salmon Hamma Hamma (Hood Canal),US West Coast (Pacific Salmon),1959-1997
+PSALMNISQPS,Pink salmon Nisqually (Puget Sound),US West Coast (Pacific Salmon),1959-1997
+PSALMNOOKSPS,Pink salmon Nooksack (Puget Sound),US West Coast (Pacific Salmon),1959-1997
+PSALMPUYALLUPPS,Pink salmon Puyallup (Puget Sound),US West Coast (Pacific Salmon),1959-1997
+PSALMSKAGPS,Pink salmon Skagit (Puget Sound),US West Coast (Pacific Salmon),1959-1997
+PSALMSNOHPS,Pink salmon Snohomish (Puget Sound),US West Coast (Pacific Salmon),1959-1997
+PSALMSTILLAPS,Pink salmon Stillaguamish (Puget Sound),US West Coast (Pacific Salmon),1959-1997
+SSALMCOLR,Sockeye salmon Columbia R,US West Coast (Pacific Salmon),1950-2002
+SSALMLWASH,Sockeye salmon Lake Washington,US West Coast (Pacific Salmon),1967-2003
+SSALMQUIN,Sockeye salmon Quinault,US West Coast (Pacific Salmon),1975-2003

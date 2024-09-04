@@ -1,0 +1,111 @@
+stockid,stocklong,region,assessment years
+HERRPWS,Pacific herring Prince William Sound,US Alaska,1980-2006
+HERRSITKA,Pacific herring Sitka,US Alaska,1978-2007
+HERRTOG,Pacific herring Togiak District,US Alaska,1990-2010
+ALSKABSAI,Alaska skate Bering Sea and Aleutian Islands,US Alaska,1950-2015
+ATKAGA,Atka mackerel Gulf of Alaska,US Alaska,1977-2014
+BKINGCRABPI,Blue king crab Pribilof Islands,US Alaska,1960-2008
+BKINGCRABSMI,Blue king crab Saint Matthews Island,US Alaska,1960-2008
+GHALBSAI,Greenland halibut Bering Sea and Aleutian Islands,US Alaska,1960-2015
+GPOCTOBSAI,Giant Pacific octopus Bering Sea and Aleutian Islands,US Alaska,1997-2014
+GPOCTOGA,Giant Pacific octopus Gulf of Alaska,US Alaska,1997-2014
+KMFLOUNBSAI,Kamchatka flounder Bering Sea and Aleutian Islands,US Alaska,1991-2015
+NRSOLEGA,Northern rock sole Gulf of Alaska,US Alaska,1977-2015
+PCODAI,Pacific cod Aleutian Islands,US Alaska,1991-2014
+PCODBS,Pacific cod Bering Sea,US Alaska,1977-2015
+REYEROCKBSAI,Rougheye rockfish Bering Sea and Aleutian Islands,US Alaska,1974-2015
+REYEROCKGA,Rougheye rockfish Gulf of Alaska,US Alaska,1974-2010
+RKCRABNS,Red king crab Norton Sound,US Alaska,1976-2008
+RKCRABPI,Red king crab Pribilof Islands,US Alaska,1981-2009
+RSOLEGA,Rock sole Gulf of Alaska,US Alaska,1977-2015
+SRAKEROCKGA,Shortraker rockfish Gulf of Alaska,US Alaska,1993-2014
+SSTHORNHGA,Shortspine thornyhead Gulf of Alaska,US Alaska,1980-2014
+WPOLLBOGO,Walleye pollock Bogoslof,US Alaska,1977-2014
+WPOLLEBS,Walleye pollock Eastern Bering Sea,US Alaska,1963-2015
+WVSCALLALASKA,Weathervane scallop Alaska,US Alaska,1994-2015
+YEYEROCKGA,Yelloweye rockfish Gulf of Alaska,US Alaska,1990-2014
+ATLCROAKMATLC,Atlantic croaker Mid-Atlantic Coast,US East Coast,1973-2002
+LOBSTERGB,American lobster Georges Bank,US East Coast,1981-2007
+LOBSTERGOM,American lobster Gulf of Maine,US East Coast,1981-2007
+LOBSTERSNE,American lobster Southern New England,US East Coast,1981-2007
+PANDALGOM,Northern shrimp Gulf of Maine,US East Coast,1960-2009
+BCRABCHESB,Blue crab Chesapeake Bay,US East Coast,1990-2010
+ATHAL5YZ,Atlantic halibut Gulf of Maine / Georges Bank,US East Coast,1800-2007
+AWOLF5YZ,Atlantic wolffish Gulf of Maine / Georges Bank,US East Coast,1968-2014
+BSKAT5YZSNE,Barndoor skate Gulf of Maine / Georges Bank-Southern New England,US East Coast,1963-2005
+BUTTERGOMCHATT,Atlantic butterfish Gulf of Maine / Cape Hatteras,US East Coast,1965-2012
+CODGB,Atlantic cod Georges Bank,US East Coast,1976-2011
+CSKATMATLC,Clearnose skate Mid-Atlantic Coast,US East Coast,1975-2005
+ILLEXNWATLC,Northern shortfin squid Northwestern Atlantic Coast,US East Coast,1967-2005
+LSKAT5YCHATT,Little skate Gulf of Maine / Cape Hatteras,US East Coast,1968-2006
+RDEEPCRABNWATL,Red deepsea crab Northwestern Atlantic,US East Coast,1982-2008
+RHAKEGOMNGB,Red hake Gulf of Maine / Northern Georges Bank,US East Coast,1980-2014
+RHAKESGBMATL,Red hake Southern Georges Bank / Mid-Atlantic,US East Coast,1980-2014
+RSKATMATLC,Rosette skate Mid-Atlantic Coast,US East Coast,1967-2005
+SCALL5ZMAB,Sea scallop Georges Bank and Mid-Atlantic Bight,US East Coast,1964-2013
+SSKAT5YZSNE,Smooth skate Gulf of Maine / Georges Bank-Southern New England,US East Coast,1963-2005
+STRIPEDBASSGOMCHATT,Striped bass Gulf of Maine / Cape Hatteras,US East Coast,1981-2012
+TILEMATLC,Tilefish Mid-Atlantic Coast,US East Coast,1915-2012
+TSKAT5YZSNE,Thorny skate Gulf of Maine / Georges Bank-Southern New England,US East Coast,1963-2005
+WEAKFISHATLC,Weakfish Atlantic Coast,US East Coast,1981-2008
+WSKAT5YCHATT,Winter skate Gulf of Maine / Cape Hatteras,US East Coast,1967-2005
+AUROCKPCOAST,Aurora rockfish Pacific Coast,US West Coast,1916-2013
+BGROCKPCOAST,Blackgill rockfish Pacific Coast,US West Coast,1950-2011
+BLACKROCKORECOAST,Black rockfish Oregon Coast,US West Coast,1892-2015
+BLACKROCKWASH,Black rockfish Washington,US West Coast,1940-2015
+BLUEROCKCAL,Blue rockfish California,US West Coast,1916-2007
+CABEZORECOAST,Cabezon Oregon Coast,US West Coast,1973-2009
+CHROCKCPCOAST,China rockfish Central Pacific Coast,US West Coast,1900-2015
+CHROCKSPCOAST,China rockfish Southern Pacific Coast,US West Coast,1900-2015
+LINGCODNPCOAST,Lingcod Northern Pacific Coast,US West Coast,1928-2009
+LINGCODSPCOAST,Lingcod Southern Pacific Coast,US West Coast,1928-2009
+LNOSESKAPCOAST,Longnose skate Pacific Coast,US West Coast,1915-2007
+LSTHORNHPCOAST,Longspine thornyhead Pacific Coast,US West Coast,1964-2012
+POPERCHPCOAST,Pacific ocean perch Pacific Coast,US West Coast,1940-2011
+REXSOLEPCOAST,Rex sole Pacific Coast,US West Coast,1896-2012
+SHCROCKPCOAST,Sharpchin rockfish Pacific Coast,US West Coast,1892-2012
+SNROCKPCOAST,Splitnose rockfish Pacific Coast,US West Coast,1905-2009
+SPSDOGPCOAST,Spotted spiny dogfish Pacific Coast,US West Coast,1916-2011
+BNKROCKCAL,Bank rockfish California,US West Coast,1979-1999
+CABEZNCAL,Cabezon Northern California,US West Coast,1930-2009
+CABEZSCAL,Cabezon Southern California,US West Coast,1930-2009
+GRNSTROCKPCOAST,Greenstriped rockfish Pacific Coast,US West Coast,1916-2009
+BHEADSHARATL,Bonnethead shark Atlantic,US Southeast and Gulf,1950-2011
+BLACKGROUPERGMSATL,Black grouper Gulf of Mexico and South Atlantic,US Southeast and Gulf,1986-2008
+BLTILESATLC,Blueline tilefish Southern Atlantic coast,US Southeast and Gulf,1974-2011
+BTIPSHARATL,Blacktip shark Atlantic,US Southeast and Gulf,1981-2004
+BTIPSHARGM,Blacktip shark Gulf of Mexico,US Southeast and Gulf,1981-2010
+COBGM,Cobia Gulf of Mexico,US Southeast and Gulf,1927-2011
+COBSATLC,Cobia Southern Atlantic coast,US Southeast and Gulf,1950-2011
+DSKSHARGMATL,Dusky shark Gulf of Mexico and Atlantic,US Southeast and Gulf,1960-2009
+FTOOTHSHARATL,Finetooth shark Atlantic,US Southeast and Gulf,1976-2005
+GAGGM,Gag Gulf of Mexico,US Southeast and Gulf,1963-2012
+GLGROUPSATLCGM,Goliath grouper Southern Atlantic coast and Gulf of Mexico,US Southeast and Gulf,1950-2009
+GRAMBERSATLC,Greater amberjack Southern Atlantic coast,US Southeast and Gulf,1946-2006
+KMACKGM,King mackerel Gulf of Mexico,US Southeast and Gulf,1929-2012
+KMACKSATLC,King mackerel Southern Atlantic coast,US Southeast and Gulf,1901-2012
+LISQUIDATLC,Longfin inshore squid Atlantic Coast,US Southeast and Gulf,1963-2009
+RGROUPSATL,Red grouper South Atlantic,US Southeast and Gulf,1976-2009
+RPORGYSATLC,Red porgy Southern Atlantic coast,US Southeast and Gulf,1972-2012
+SCHHEADATL,Scalloped hammerhead Atlantic,US East Coast,1981-2005
+SKSNAPCARIB,Silk snapper Caribbean,US Southeast and Gulf,1983-2009
+SMDOGATL,Smooth dogfish Atlantic,US East Coast,1981-2012
+SNOSESHARATL,Atlantic sharpnose shark Atlantic,US Southeast and Gulf,1950-2005
+SNOWGROUPSATLC,Snowy grouper Southern Atlantic coast,US Southeast and Gulf,1974-2013
+SPANMACKGM,Spanish mackerel Gulf of Mexico,US Southeast and Gulf,1886-2011
+SPANMACKSATLC,Spanish mackerel Southern Atlantic coast,US Southeast and Gulf,1950-2012
+TILEGM,Tilefish Gulf of Mexico,US Southeast and Gulf,1965-2009
+VSNAPSATLC,Vermilion snapper Southern Atlantic coast,US Southeast and Gulf,1945-2012
+YEGROUPGM,Yellowedge grouper Gulf of Mexico,US Southeast and Gulf,1975-2009
+YTSNAPSATLCGM,Yellowtail snapper Southern Atlantic coast and Gulf of Mexico,US Southeast and Gulf,1950-2011
+BLACKROCKCAL,Black rockfish California,US West Coast,1916-2015
+BRNROCKPCOAST,Brown rockfish Pacific Coast,US West Coast,1916-2012
+CHROCKNPCOAST,China rockfish Northern Pacific Coast,US West Coast,1900-2015
+CPRROCKPCOAST,Copper rockfish Pacific Coast,US West Coast,1916-2012
+DSOLEPCOAST,Dover sole Pacific Coast,US West Coast,1910-2011
+GOPHERSPCOAST,Gopher rockfish Southern Pacific Coast,US West Coast,1965-2005
+GRSPROCKNCAL,Greenspotted rockfish Northern Pacific Coast,US West Coast,1916-2010
+GRSPROCKSCAL,Greenspotted rockfish Southern Pacific Coast,US West Coast,1916-2010
+SBELLYROCKPCOAST,Shortbelly rockfish Pacific Coast,US West Coast,1950-2005
+STFLOUNNPCOAST,Starry flounder Northern Pacific Coast,US West Coast,1970-2005
+STFLOUNSPCOAST,Starry flounder Southern Pacific Coast,US West Coast,1970-2005
