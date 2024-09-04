@@ -1,0 +1,278 @@
+"stockid","region","council","mgmt","area","primary_country","lme_number"
+"ACADREDGOMGB","US East Coast","NEFMC","NMFS","Gulf of Maine / Georges Bank","USA",7
+"ALBANATL","Atlantic Ocean","AOHS","ICCAT","Northern Atlantic","Spain",-98
+"ALBANPAC","Pacific Ocean","POHS","ISC","North Pacific Ocean","Japan",-99
+"ALPLAICBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"AMPL23K","Canada East Coast","Canada East Coast","DFO","Labrador - NE Newfoundland","Canada",9
+"AMPL5YZ","US East Coast","NEFMC","NMFS","Gulf of Maine / Georges Bank","USA",7
+"ANCHMEDGSA17-18","Mediterranean-Black Sea","MBS","GFCM","Adriatic Sea (GSA 17,18)","Italy",62
+"ANCHOBAYB","Europe (EU)","Europe (EU)","ICES","Bay of Biscay","Spain",24
+"ANCHOSA","South Africa","South Africa","DETMCM","South Africa","South Africa",29
+"ANGLMEDGSA15-16","Mediterranean-Black Sea","MBS","GFCM","Malta Island and South of Sicily (GSA 15, 16)","Italy",62
+"ARFLOUNDBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"ARFLOUNDGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"ARFLOUNDPCOAST","US West Coast","NPFMC","NMFS","Pacific Coast","USA",3
+"ARGANCHONARG","South America","South America","CFP","Northern Argentina","Argentina",14
+"ARGANCHOSARG","South America","South America","CFP","Southern Argentina","Argentina",14
+"ARGHAKENARG","South America","South America","CFP","Northern Argentina","Argentina",14
+"ARGHAKESARG","South America","South America","CFP","Southern Argentina","Argentina",14
+"ATBTUNAEATL","Atlantic Ocean","AOHS","ICCAT","Eastern Atlantic","Spain",-98
+"ATBTUNAWATL","Atlantic Ocean","AOHS","ICCAT","Western Atlantic","USA",-98
+"ATKABSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"atmackerel","US East Coast","MAFMC",NA,"Gulf of Maine / Georges Bank",NA,7
+"AUSSALMONNZ","New Zealand","New Zealand","MFish","New Zealand","New Zealand",46
+"BGRDRNSWWA","Australia","Australia","AFMA","New South Wales to Western Australia","Australia",42
+"BIGEYEATL","Atlantic Ocean","AOHS","ICCAT","Atlantic Ocean","Japan",-98
+"BIGEYECWPAC","Pacific Ocean","POHS","WCPFC","Central Western Pacific Ocean","Japan",-99
+"BIGHTREDSE","Australia","Australia","AFMA","Southeast Australia","Australia",43
+"BlackSeaBass","US South Atlantic","SAFMC",NA,NA,NA,6
+"BLINGVb-VI-VII","Europe (EU)","Europe (EU)","ICES","ICES 5b-6-7","France",24
+"BLUEFISHATLC","US East Coast","MAFMC","NMFS","Atlantic Coast","USA",7
+"BNOSESHARATL","US Southeast and Gulf","AOHS","NMFS","Atlantic","USA",-98
+"BOCACCSPCOAST","US West Coast","PFMC","NMFS","Southern Pacific Coast","USA",3
+"BRNSHRIMPGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"BSBASSMATLC","US East Coast","MAFMC","NMFS","Mid-Atlantic Coast","USA",7
+"BWHITNEA","Europe (EU)","Europe (EU)","ICES","Northeast Atlantic","Norway",24
+"CALSCORPSCAL","US West Coast","PFMC","NMFS","Southern California","USA",3
+"CAPENOR","Europe (non-EU)","Europe (non-EU)","ICES","Barents Sea","Norway",20
+"CHAKESA","South Africa","South Africa","DETMCM","South Africa","South Africa",29
+"CHILISPCOAST","US West Coast","PFMC","NMFS","Southern Pacific Coast","USA",3
+"CMACKPJPN","Japan","Japan","FAJ","Pacific Coast of Japan","Japan",49
+"COD2J3KL","Canada East Coast","Canada East Coast","DFO","Southern Labrador-Eastern Newfoundland","Canada",9
+"COD3Pn4RS","Canada East Coast","Canada East Coast","DFO","Northern Gulf of St. Lawrence","Canada",9
+"COD3Ps","Canada East Coast","Canada East Coast","DFO","St. Pierre Bank","Canada",9
+"COD4TVn","Canada East Coast","Canada East Coast","DFO","Southern Gulf of St. Lawrence","Canada",8
+"CODBA2224","Europe (EU)","Europe (EU)","ICES","Western Baltic","Denmark",23
+"CODBA2532","Europe (EU)","Europe (EU)","ICES","Eastern Baltic","Poland",23
+"CODFAPL","Europe (non-EU)","Europe (non-EU)","ICES","Faroe Plateau","Faroe Islands",60
+"CODGOM","US East Coast","NEFMC","NMFS","Gulf of Maine","USA",7
+"CODICE","Europe (non-EU)","Europe (non-EU)","ICES","Iceland Grounds","Iceland",59
+"CODIIIaW-IV-VIId","Europe (EU)","Europe (EU)","ICES","ICES 3a(west)-4-7d","Great Britain",22
+"CODIS","Europe (EU)","Europe (EU)","ICES","Irish Sea","Ireland",24
+"CODNEAR","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic","Russia",20
+"CODNEARNCW","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic (Norwegian coastal waters)","Norway",21
+"CODVIa","Europe (EU)","Europe (EU)","ICES","West of Scotland","Great Britain",24
+"CODVIIek","Europe (EU)","Europe (EU)","ICES","Celtic Sea","France",24
+"COWCODSCAL","US West Coast","PFMC","NMFS","Southern California","USA",3
+"CRLOBSTERSA12","South Africa","South Africa","DETMCM","South Africa Areas 1-2","South Africa",29
+"CRLOBSTERSA34","South Africa","South Africa","DETMCM","South Africa Areas 3-4","South Africa",29
+"CRLOBSTERSA56","South Africa","South Africa","DETMCM","South Africa Areas 5-6","South Africa",29
+"CRLOBSTERSA7","South Africa","South Africa","DETMCM","South Africa Area 7","South Africa",29
+"CRLOBSTERSA8","South Africa","South Africa","DETMCM","South Africa Area 8","South Africa",29
+"CROCKPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"CUSKVa-XIV","Europe (EU)","Europe (EU)","ICES","ICES 5a-14","Iceland",59
+"DEEPCHAKESA","South Africa","South Africa","DETMCM","South Africa","South Africa",29
+"DEEPFLATHEADSE","Australia","Australia","AFMA","Southeast Australia","Australia",43
+"DKROCKPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"DSOLEGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"DUSROCKGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"EBASSIVbc-VII","Europe (EU)","Europe (EU)","ICES","ICES 4bc-7","France",24
+"FLSOLEBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"FLSOLEGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"FMEG8c9a","Europe (EU)","Europe (EU)","ICES","ICES 8c-9a","Portugal",25
+"Gag","US South Atlantic","SAFMC",NA,NA,NA,6
+"GHALNEAR","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic","Norway",20
+"GOLDREDNEAR","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic","Norway",20
+"GOLDREDV-VI-XII-XIV","Europe (EU)","Europe (EU)","ICES","ICES 5-6-12-14","Iceland",59
+"GRAMBERGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"GreaterAmberjack","US South Atlantic","SAFMC",NA,NA,NA,6
+"GTRIGGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"HAD4X5Y","Canada East Coast","Canada East Coast","DFO","Western Scotian Shelf, Bay of Fundy and Gulf of Maine","Canada",7
+"HAD5Y","US East Coast","NEFMC","NMFS","Gulf of Maine","USA",7
+"HADFAPL","Europe (non-EU)","Europe (non-EU)","ICES","Faroe Plateau","Faroe Islands",60
+"HADGB","US East Coast","NEFMC","NMFS","Georges Bank","USA",7
+"HADICE","Europe (non-EU)","Europe (non-EU)","ICES","Iceland Grounds","Iceland",59
+"HADIS","Europe (EU)","Europe (EU)","ICES","Irish Sea","Great Britain",24
+"HADNEAR","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic","Norway",20
+"HADNS-IIIa-VIa","Europe (EU)","Europe (EU)","ICES","ICES 3a-4-6a","Iceland",22
+"HADROCK","Europe (EU)","Europe (EU)","ICES","Rockall Bank","Great Britain",24
+"HADVIIb-k","Europe (EU)","Europe (EU)","ICES","ICES 7b-k","France",24
+"HAKENRTN","Europe (EU)","Europe (EU)","ICES","ICES 3a-4-6-7-8abd","France",24
+"HAKESOTH","Europe (EU)","Europe (EU)","ICES","ICES 8c-9a","Spain",25
+"HERR2224IIIa","Europe (EU)","Europe (EU)","ICES","ICES 22-24-3a","Sweden",22
+"HERR2529-32","Europe (EU)","Europe (EU)","ICES","Subdivisions 25-29 and 32","Sweden",23
+"HERR30-31","Europe (EU)","Europe (EU)","ICES","Subdivisions 30-31","Finland",23
+"HERR4TFA","Canada East Coast","Canada East Coast","DFO","Southern Gulf of St. Lawrence (Fall spawners)","Canada",8
+"HERR4TSP","Canada East Coast","Canada East Coast","DFO","Southern Gulf of St. Lawrence (Spring spawners)","Canada",8
+"HERRCC","Canada West Coast","Canada West Coast","DFO","Central Coast","Canada",2
+"HERRIsum","Europe (non-EU)","Europe (non-EU)","ICES","Iceland (Summer spawners)","Iceland",59
+"HERRNIRS","Europe (EU)","Europe (EU)","ICES","Irish Sea","Great Britain",24
+"HERRNORSS","Europe (non-EU)","Europe (non-EU)","ICES","ICES 1-2-4a-5-14a (Norwegian Spring Spawners)","Norway",24
+"HERRNS-IIIa-VIId","Europe (EU)","Europe (EU)","ICES","ICES 3a-4-7d","Norway",22
+"HERRNWATLC","US East Coast","NEFMC","NMFS","Northwestern Atlantic Coast","USA",7
+"HERRPRD","Canada West Coast","Canada West Coast","DFO","Prince Rupert District","Canada",2
+"HERRQCI","Canada West Coast","Canada West Coast","DFO","Queen Charlotte Islands","Canada",2
+"HERRRIGA","Europe (EU)","Europe (EU)","ICES","Gulf of Riga East of Gotland","Estonia",23
+"HERRSIRS","Europe (EU)","Europe (EU)","ICES","ICES 7a-g-h-j","Ireland",24
+"HERRSOG","Canada West Coast","Canada West Coast","DFO","Strait of Georgia","Canada",2
+"HERRVIa","Europe (EU)","Europe (EU)","ICES","West of Scotland","Great Britain",24
+"HERRVIaVIIbc","Europe (EU)","Europe (EU)","ICES","ICES 5a-7bc","Great Britain",24
+"HERRWCVANI","Canada West Coast","Canada West Coast","DFO","West Coast of Vancouver Island","Canada",2
+"HMACKIIa-IVa-Vb-VIa-VII-VIII","Europe (EU)","Europe (EU)","ICES","ICES 2a-4a-5b-6a-7-8","Netherlands",24
+"HMACKIXa","Europe (EU)","Europe (EU)","ICES","Portugese Waters -East","Portugal",25
+"HOKIENZ","New Zealand","New Zealand","MFish","Eastern New Zealand","New Zealand",46
+"HOKIWNZ","New Zealand","New Zealand","MFish","Western New Zealand","New Zealand",46
+"JMACKPJPN","Japan","Japan","FAJ","Pacific Coast of Japan","Japan",49
+"JMACKTSST","Japan","Japan","FAJ","Tsushima Strait","Japan",50
+"KELPGREENLINGORECOAST","US West Coast","PFMC","NMFS","Oregon Coast","USA",3
+"KingMackerel","US South Atlantic","SAFMC",NA,NA,NA,6
+"LINGVa","Europe (non-EU)","Europe (non-EU)","ICES","Iceland Grounds","Iceland",59
+"MACKNEICES","Europe (EU)","Europe (EU)","ICES","ICES Northeast Atlantic","Norway",24
+"MACKNWATLSA3-4","Canada East Coast","Canada East Coast","DFO","Northwest Atlantic (NAFO Subareas 3 and 4)","Canada",9
+"MEG8c9a","Europe (EU)","Europe (EU)","ICES","ICES 8c-9a","Portugal",25
+"MEGVII-VIIIabd","Europe (EU)","Europe (EU)","ICES","ICES 7-8abd","France",24
+"MENATGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"MENATLAN","US East Coast","US non-federal","NMFS","Atlantic","USA",7
+"MONKGOMNGB","US East Coast","NEFMC","NMFS","Gulf of Maine / Northern Georges Bank","USA",7
+"MONKSGBMATL","US East Coast","NEFMC","NMFS","Southern Georges Bank / Mid-Atlantic","USA",7
+"MORWONGESE","Australia","Australia","AFMA","Eastern half of Southeast Australia","Australia",42
+"MORWONGWSE","Australia","Australia","AFMA","Western half of Southeast Australia","Australia",43
+"MuttonSnapper","US South Atlantic","SAFMC",NA,NA,NA,6
+"NEPHMEDGSA5","Mediterranean-Black Sea","MBS","GFCM","Balearic Island","Spain",26
+"NEPHMEDGSA9","Mediterranean-Black Sea","MBS","GFCM","Ligurian and North Tyrrhenian Sea","Italy",26
+"NPOUTIIIa-IV","Europe (EU)","Europe (EU)","ICES","ICES 3a-4","Denmark",22
+"NROCKBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"NROCKGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"NRSOLEEBSAI","US Alaska","NPFMC","NMFS","Eastern Bering Sea and Aleutian Islands","USA",1
+"OFLOUNECS","Japan","Japan","FAJ","East China Sea","Japan",47
+"OFLOUNNSJ","Japan","Japan","FAJ","Sea of Japan North","Japan",50
+"OFLOUNPAC","Japan","Japan","FAJ","Pacific Ocean","Japan",49
+"OFLOUNSETO","Japan","Japan","FAJ","Inland Sea of Japan","Japan",50
+"OROUGHYSE","Australia","Australia","AFMA","Southeast Australia","Australia",42
+"PACBTUNA","Pacific Ocean","POHS","ISC","Pacific Ocean","Japan",-99
+"PANCHPERUNC","South America","South America","IMARPE","North-Central Peruvian coast","Peru",13
+"PATGRENADIERCH","South America","South America","SUBPESCA","Central-Southern Chile","Chile",13
+"PATGRENADIERSARG","South America","South America","CFP","Southern Argentina","Argentina",14
+"PAUANPAU5A","New Zealand","New Zealand","MFish","NZ Area North PAUA 5A","New Zealand",46
+"PAUAPAU5B","New Zealand","New Zealand","MFish","New Zealand Area PAU 5B (Stewart Island)","New Zealand",46
+"PAUAPAU5D","New Zealand","New Zealand","MFish","New Zealand Area PAU 5D (Otago)","New Zealand",46
+"PAUAPAU7","New Zealand","New Zealand","MFish","New Zealand Area PAU 7 (Marlborough)","New Zealand",46
+"PAUASPAU5A","New Zealand","New Zealand","MFish","NZ Area South PAUA 5A","New Zealand",46
+"PCODGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"PCODHS","Canada West Coast","Canada West Coast","DFO","Hecate Strait","Canada",2
+"PERCHEBSAI","US Alaska","NPFMC","NMFS","Eastern Bering Sea and Aleutian Islands","USA",1
+"PHAKEPCOAST","US West Coast","US non-federal","NMFS","Pacific Coast","USA",3
+"PILCHPJPN","Japan","Japan","FAJ","Pacific Coast of Japan","Japan",49
+"PILCHTSST","Japan","Japan","FAJ","Tsushima Strait","Japan",50
+"PINKSHRIMPGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"PLAIC2123","Europe (EU)","Europe (EU)","ICES","Subdivisions 21-23","Denmark",23
+"PLAIC7d","Europe (EU)","Europe (EU)","ICES","Eastern English Channel","France",24
+"PLAICECHW","Europe (EU)","Europe (EU)","ICES","Western English Channel","Great Britain",24
+"PLAICIS","Europe (EU)","Europe (EU)","ICES","Irish Sea","Great Britain",24
+"PLAICNS","Europe (EU)","Europe (EU)","ICES","North Sea","Netherlands",22
+"POLL5YZ","US East Coast","NEFMC","NMFS","Gulf of Maine / Georges Bank","USA",7
+"POLLFAPL","Europe (non-EU)","Europe (non-EU)","ICES","Faroe Plateau","Faroe Islands",60
+"POLLIEG","Europe (non-EU)","Europe (non-EU)","ICES","Iceland Grounds","Iceland",59
+"POLLNEAR","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic","Norway",20
+"POLLNS-VI-IIIa","Europe (EU)","Europe (EU)","ICES","ICES 3a-4-6","Iceland",22
+"POPERCHGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"PSHRMPMEDGSA6","Mediterranean-Black Sea","MBS","GFCM","Northern Spain","Spain",25
+"PSOLEPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"PTOOTHFISHCH","South America","South America","SUBPESCA-CFP","South Chile Argentina","Chile",13
+"PTOOTHFISHPEI","South Africa","South Africa","DETMCM","South Africa Subantarctic Prince Edward Islands","South Africa",-96
+"QUAHATLC","US East Coast","MAFMC","NMFS","Atlantic Coast","USA",7
+"RBRMECS","Japan","Japan","FAJ","East China Sea","Japan",47
+"RBRMSETOE","Japan","Japan","FAJ","Inland Sea of Japan (East)","Japan",50
+"RBRMSETOW","Japan","Japan","FAJ","Inland Sea of Japan (West)","Japan",50
+"RDSHRMPMEDGSA6","Mediterranean-Black Sea","MBS","GFCM","Northern Spain","Spain",25
+"REDDEEPI-II","Europe (non-EU)","Europe (non-EU)","ICES","North-East Arctic","Norway",20
+"REDFEAUS","Australia","Australia","AFMA","Eastern Australia","Australia",40
+"REDFISHSPP3M","Canada East Coast","Canada East Coast","NAFO","Flemish Cap","Russia",9
+"RedGrouper","US South Atlantic","SAFMC",NA,NA,NA,6
+"RedPorgy","US South Atlantic","SAFMC",NA,NA,NA,6
+"RedSnapper","US South Atlantic","SAFMC",NA,NA,NA,6
+"REXSOLEGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"RGROUPGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"RKCRABBB","US Alaska","NPFMC","NMFS","Bristol Bay","USA",1
+"RROCKLOBSTERCRA1","New Zealand","New Zealand","MFish","New Zealand Area CRA1","New Zealand",46
+"RROCKLOBSTERCRA2","New Zealand","New Zealand","MFish","New Zealand Area CRA2","New Zealand",46
+"RROCKLOBSTERCRA3","New Zealand","New Zealand","MFish","New Zealand Area CRA3","New Zealand",46
+"RROCKLOBSTERCRA4","New Zealand","New Zealand","MFish","New Zealand Area CRA4","New Zealand",46
+"RROCKLOBSTERCRA5","New Zealand","New Zealand","MFish","New Zealand Area CRA5","New Zealand",46
+"RROCKLOBSTERCRA7","New Zealand","New Zealand","MFish","New Zealand Area CRA7","New Zealand",46
+"RROCKLOBSTERCRA8","New Zealand","New Zealand","MFish","New Zealand Area CRA8","New Zealand",46
+"RSHRMPMEDGSA1","Mediterranean-Black Sea","MBS","GFCM","Northern Alboran Sea","Spain",26
+"RSNAPGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"RSOLEHSTR","Canada West Coast","Canada West Coast","DFO","Hecate Strait","Canada",2
+"SAABALONESA","South Africa","South Africa","DETMCM","South Africa","South Africa",29
+"SABLEFEBSAIGA","US Alaska","NPFMC","NMFS","Eastern Bering Sea / Aleutian Islands / Gulf of Alaska","USA",1
+"SABLEFPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"SABluelineTilefish","US South Atlantic","SAFMC",NA,NA,NA,6
+"SARDMEDGSA17-18","Mediterranean-Black Sea","MBS","GFCM","Adriatic Sea (GSA 17,18)","Italy",62
+"SARDMEDGSA6","Mediterranean-Black Sea","MBS","GFCM","Northern Spain","Spain",25
+"SARDPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"SARDPVIIIc-IXa","Europe (EU)","Europe (EU)","ICES","ICES 8c-9a","Portugal",25
+"SARDSA","South Africa","South Africa","DETMCM","South Africa","South Africa",29
+"SAURNWPAC","Japan","Japan","FAJ","Northwest Pacific","Japan",49
+"SBARSHARATL","US Southeast and Gulf","AOHS","NMFS","Atlantic","USA",-98
+"SBT","Indian Ocean","IOHS","CCSBT","Southern Oceans","Japan",-97
+"SBWHITACIR","New Zealand","New Zealand","MFish","Campbell Island Rise","New Zealand",46
+"SBWHITARGS","South America","South America","CFP","Southern Argentina","Argentina",14
+"SBWHITCH","South America","South America","SUBPESCA","Central-Southern Chile","Chile",13
+"SCALLGB","Canada East Coast","Canada East Coast","DFO","Georges Bank","Canada",7
+"SCMPBP","New Zealand","New Zealand","MFish","Bay of Plenty","New Zealand",46
+"SCMPWHB","New Zealand","New Zealand","MFish","Wairarapa/Hawke Bay","New Zealand",46
+"SCUPNWATLC","US East Coast","MAFMC","NMFS","Northwestern Atlantic Coast","USA",7
+"SDOGATLC","US East Coast","MAFMC","NMFS","Atlantic Coast","USA",7
+"SEELNSSA1","Europe (EU)","Europe (EU)","ICES","Sandeel Area 1","Denmark",22
+"SEELNSSA2","Europe (EU)","Europe (EU)","ICES","Sandeel Area 2","Denmark",22
+"SEELNSSA3","Europe (EU)","Europe (EU)","ICES","Sandeel Area 3","Denmark",22
+"SEELNSSA4","Europe (EU)","Europe (EU)","ICES","Sandeel Area 4","Denmark",22
+"SFLOUNMATLC","US East Coast","MAFMC","NMFS","Mid-Atlantic Coast","USA",7
+"SILVERFISHSE","Australia","Australia","AFMA","Southeast Australia","Australia",42
+"SMOOTHOREOCR","New Zealand","New Zealand","MFish","Chatham Rise","New Zealand",46
+"SMULLMEDGSA9","Mediterranean-Black Sea","MBS","GFCM","Ligurian and North Tyrrhenian Sea","Italy",26
+"SNOWCRABBS","US Alaska","NPFMC","NMFS","Bering Sea","USA",1
+"SNOWCRABSGSL","Canada East Coast","Canada East Coast","DFO","Southern Gulf of St. Lawrence","Canada",8
+"SnowyGrouper","US South Atlantic","SAFMC",NA,NA,NA,6
+"SOLECS","Europe (EU)","Europe (EU)","ICES","Celtic Sea","Belgium",24
+"SOLEIIIa-2224","Europe (EU)","Europe (EU)","ICES","ICES 22-24-3a","Denmark",22
+"SOLEIS","Europe (EU)","Europe (EU)","ICES","Irish Sea","Belgium",24
+"SOLENS","Europe (EU)","Europe (EU)","ICES","North Sea","Netherlands",22
+"SOLEVIId","Europe (EU)","Europe (EU)","ICES","Eastern English Channel","France",24
+"SOLEVIIe","Europe (EU)","Europe (EU)","ICES","Western English Channel","Great Britain",24
+"SOLEVIIIab","Europe (EU)","Europe (EU)","ICES","ICES 8ab","France",25
+"SOLMEDGSA17","Mediterranean-Black Sea","MBS","GFCM","Northern Adriatic Sea","Italy",26
+"SOUTHHAKECH","South America","South America","SUBPESCA","Central-Southern Chile","Chile",13
+"SOUTHHAKESA","New Zealand","New Zealand","MFish","Sub-Antarctic","New Zealand",46
+"SpanishMackerel","US South Atlantic","SAFMC",NA,NA,NA,6
+"SPANMACKSETO","Japan","Japan","FAJ","Inland Sea of Japan","Japan",50
+"SPHAKECH","South America","South America","SUBPESCA","Central-Southern Chile","Chile",13
+"SPRAT22-32","Europe (EU)","Europe (EU)","ICES","Baltic Areas 22-32","Poland",23
+"SPRATNS","Europe (EU)","Europe (EU)","ICES","North Sea","Denmark",22
+"SPRBLKGSA29","Mediterranean-Black Sea","MBS","GFCM","Black Sea","Ukraine",62
+"SPURDNEATL","Europe (EU)","Europe (EU)","ICES","Northeast Atlantic","Norway",24
+"SRAKEROCKBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"SSARDCH","South America","South America","SUBPESCA","Central-Southern Chile","Chile",13
+"SSLOBSTERSASC","South Africa","South Africa","DETMCM","South Africa South coast","South Africa",30
+"SSTHORNHPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"STMARLINWCNPAC","Pacific Ocean","POHS","ISC","Western and Central North Pacific","Japan",-99
+"SURFMATLC","US East Coast","MAFMC","NMFS","Mid-Atlantic Coast","USA",7
+"SWHITSE","Australia","Australia","AFMA","Southeast Australia","Australia",42
+"TANNERCRABBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1
+"TIGERFLATSE","Australia","Australia","AFMA","Southeast Australia","Australia",42
+"Tilefish","US South Atlantic","SAFMC",NA,NA,NA,6
+"TURBLKGSA29","Mediterranean-Black Sea","MBS","GFCM","Black Sea","Turkey",62
+"Vermilionsnapper","US South Atlantic","SAFMC",NA,NA,NA,6
+"VSNAPGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"WANGLVIIIc-IXa","Europe (EU)","Europe (EU)","ICES","ICES 8c-9a","Portugal",25
+"WAREHOUESE","Australia","Australia","AFMA","Eastern half of Southeast Australia","Australia",42
+"WAREHOUWSE","Australia","Australia","AFMA","Western half of Southeast Australia","Australia",43
+"WHAKEGBGOM","US East Coast","NEFMC","NMFS","Gulf of Maine / Georges Bank","USA",7
+"WHITMEDGSA29","Mediterranean-Black Sea","MBS","GFCM","Black Sea","Turkey",62
+"WHITNS-VIId","Europe (EU)","Europe (EU)","ICES","ICES 4-7d","Great Britain",22
+"WHITVIa","Europe (EU)","Europe (EU)","ICES","West of Scotland","Great Britain",24
+"WHITVIIa","Europe (EU)","Europe (EU)","ICES","Irish Sea","Great Britain",24
+"WHITVIIek","Europe (EU)","Europe (EU)","ICES","Celtic Sea","France",24
+"WINFLOUN5Z","US East Coast","NEFMC","NMFS","Georges Bank","USA",7
+"WITFLOUN5Y","US East Coast","NEFMC","NMFS","Gulf of Maine","USA",7
+"WPOLLAI","US Alaska","NPFMC","NMFS","Aleutian Islands","USA",1
+"WPOLLGA","US Alaska","NPFMC","NMFS","Gulf of Alaska","USA",2
+"WROCKPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"WSHRIMPGM","US Southeast and Gulf","GMFMC","NMFS","Gulf of Mexico","USA",5
+"YELLCCODGOM","US East Coast","NEFMC","NMFS","Cape Cod / Gulf of Maine","USA",7
+"YellowtailSnapper","US South Atlantic","SAFMC",NA,NA,NA,6
+"YELLSNEMATL","US East Coast","NEFMC","NMFS","Southern New England /Mid Atlantic","USA",7
+"YEYEROCKPCOAST","US West Coast","PFMC","NMFS","Pacific Coast","USA",3
+"YFINATL","Atlantic Ocean","AOHS","ICCAT","Atlantic Ocean","Spain",-98
+"YSOLEBSAI","US Alaska","NPFMC","NMFS","Bering Sea and Aleutian Islands","USA",1

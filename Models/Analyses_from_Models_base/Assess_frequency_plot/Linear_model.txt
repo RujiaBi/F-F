@@ -1,0 +1,14 @@
+model{
+
+beta ~ dunif(-100,100)
+intercept ~ dunif(-100,100)
+
+
+for (i in 1:nrow){
+cv_est[i] <- intercept + beta*freq[i]
+cv[i] ~ dnorm(cv_est[i], 1/nu)
+}
+
+nu ~ dunif(0,1000)
+
+}
