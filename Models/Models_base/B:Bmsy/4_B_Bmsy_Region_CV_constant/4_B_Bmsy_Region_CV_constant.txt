@@ -1,0 +1,107 @@
+model{
+
+cv_global ~ dgamma(1, 0.01)  # For lognormal: cv = sqrt(exp(sigma^2)-1), so sigma^2 = log(cv^2+1)
+
+# random region effects on CV_short
+for (r in 1:rs){   
+cv_region[r] ~ dlnorm(log(cv_global), 1/nu_r)
+cv[r,1] = cv_region[r]
+
+# CV_long = CV_short + constant
+cv[r,2] = cv[r,1] + constant
+}
+
+nu_r ~ dunif(0,10)
+constant ~ dunif(0, 100)
+
+
+## Stocks with 2 assessments ##
+for (s in 1:stocknum_2ass){
+mu_2ass[s] ~ dunif(-5, 5)
+}
+
+for (i in 1:stocknum_2ass){
+for (j in 13:14){
+data_2ass[i,j] ~ dlnorm(mu_2ass[data_2ass[i,1]], 1/log(cv[data_2ass[i,2],data_2ass[i,3]]^2+1))
+loglik_2ass[i,j-12] <- logdensity.norm(log(data_2ass[i,j]), mu_2ass[data_2ass[i,1]], 1/log(cv[data_2ass[i,2],data_2ass[i,3]]^2+1))
+}} 
+  
+  
+## Stocks with 3 assessments ##
+for (s in 1:stocknum_3ass){
+for (ty in 1:tynum_3ass){
+mu_3ass[s,ty] ~ dunif(-5, 5)
+}}
+
+for (i in 1:stock_compare_num_3ass){
+for (j in 13:14){
+data_3ass[i,j] ~ dlnorm(mu_3ass[data_3ass[i,1],data_3ass[i,19]], 1/log(cv[data_3ass[i,2],data_3ass[i,3]]^2+1))
+loglik_3ass[i,j-12] <- logdensity.norm(log(data_3ass[i,j]), mu_3ass[data_3ass[i,1],data_3ass[i,19]], 1/log(cv[data_3ass[i,2],data_3ass[i,3]]^2+1))
+}}
+
+
+## Stocks with 4 assessments ##
+for (s in 1:stocknum_4ass){
+for (ty in 1:tynum_4ass){
+mu_4ass[s,ty] ~ dunif(-5, 5)
+}}
+
+for (i in 1:stock_compare_num_4ass){
+for (j in 13:14){
+data_4ass[i,j] ~ dlnorm(mu_4ass[data_4ass[i,1],data_4ass[i,19]], 1/log(cv[data_4ass[i,2],data_4ass[i,3]]^2+1))
+loglik_4ass[i,j-12] <- logdensity.norm(log(data_4ass[i,j]), mu_4ass[data_4ass[i,1],data_4ass[i,19]], 1/log(cv[data_4ass[i,2],data_4ass[i,3]]^2+1))
+}}
+
+
+## Stocks with 5 assessments ##
+for (s in 1:stocknum_5ass){
+for (ty in 1:tynum_5ass){
+mu_5ass[s,ty] ~ dunif(-5, 5)
+}}
+
+for (i in 1:stock_compare_num_5ass){
+for (j in 13:14){
+data_5ass[i,j] ~ dlnorm(mu_5ass[data_5ass[i,1],data_5ass[i,19]], 1/log(cv[data_5ass[i,2],data_5ass[i,3]]^2+1))
+loglik_5ass[i,j-12] <- logdensity.norm(log(data_5ass[i,j]), mu_5ass[data_5ass[i,1],data_5ass[i,19]], 1/log(cv[data_5ass[i,2],data_5ass[i,3]]^2+1))
+}}
+  
+  
+## Stocks with 6 assessments ##
+for (s in 1:stocknum_6ass){
+for (ty in 1:tynum_6ass){
+mu_6ass[s,ty] ~ dunif(-5, 5)
+}}
+
+for (i in 1:stock_compare_num_6ass){
+for (j in 13:14){
+data_6ass[i,j] ~ dlnorm(mu_6ass[data_6ass[i,1],data_6ass[i,19]], 1/log(cv[data_6ass[i,2],data_6ass[i,3]]^2+1))
+loglik_6ass[i,j-12] <- logdensity.norm(log(data_6ass[i,j]), mu_6ass[data_6ass[i,1],data_6ass[i,19]], 1/log(cv[data_6ass[i,2],data_6ass[i,3]]^2+1))
+}}
+
+
+## Stocks with 7 assessments ##
+for (s in 1:stocknum_7ass){
+for (ty in 1:tynum_7ass){
+mu_7ass[s,ty] ~ dunif(-5, 5)
+}}
+
+for (i in 1:stock_compare_num_7ass){
+for (j in 13:14){
+data_7ass[i,j] ~ dlnorm(mu_7ass[data_7ass[i,1],data_7ass[i,19]], 1/log(cv[data_7ass[i,2],data_7ass[i,3]]^2+1))
+loglik_7ass[i,j-12] <- logdensity.norm(log(data_7ass[i,j]), mu_7ass[data_7ass[i,1],data_7ass[i,19]], 1/log(cv[data_7ass[i,2],data_7ass[i,3]]^2+1))
+}}
+
+
+## Stocks with 8 assessments ##
+for (s in 1:stocknum_8ass){
+for (ty in 1:tynum_8ass){
+mu_8ass[s,ty] ~ dunif(-5, 5)
+}}
+
+for (i in 1:stock_compare_num_8ass){
+for (j in 13:14){
+data_8ass[i,j] ~ dlnorm(mu_8ass[data_8ass[i,1],data_8ass[i,19]], 1/log(cv[data_8ass[i,2],data_8ass[i,3]]^2+1))
+loglik_8ass[i,j-12] <- logdensity.norm(log(data_8ass[i,j]), mu_8ass[data_8ass[i,1],data_8ass[i,19]], 1/log(cv[data_8ass[i,2],data_8ass[i,3]]^2+1))
+}}
+
+}
