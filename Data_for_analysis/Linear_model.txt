@@ -1,0 +1,14 @@
+model{
+
+beta ~ dunif(-100,100)
+intercept ~ dunif(-100,100)
+
+
+for (i in 1:nrow){
+recent_log_est[i] <- intercept + beta*old_log[i]
+recent_log[i] ~ dnorm(recent_log_est[i], 1/nu)
+}
+
+nu ~ dunif(0,1000)
+
+}
